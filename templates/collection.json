@@ -1,1 +1,74 @@
-{"sections":{"main-collection-banner":{"type":"main-collection-banner","custom_css":[".collection-hero__description {font-size: 2em; max-width: 100%;}"],"settings":{"show_collection_description":true,"show_collection_image":false,"color_scheme":"background-1"}},"main-collection-product-grid":{"type":"main-collection-product-grid","settings":{"products_per_page":20,"columns_desktop":3,"image_ratio":"adapt","show_secondary_image":true,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"enable_filtering":true,"filter_type":"horizontal","enable_sorting":false,"columns_mobile":"1","padding_top":36,"padding_bottom":36}},"newsletter":{"type":"newsletter","blocks":{"paragraph":{"type":"paragraph","settings":{"text":"<p>EMAIL SIGNUP<\/p>"}},"heading":{"type":"heading","settings":{"heading":"Sign up for our email list","heading_size":"h0"}},"email_form":{"type":"email_form","settings":{}}},"block_order":["paragraph","heading","email_form"],"custom_css":["h2 {color: #f5eedd;}"],"settings":{"color_scheme":"accent-2","full_width":true,"padding_top":40,"padding_bottom":52}}},"order":["main-collection-banner","main-collection-product-grid","newsletter"]}
+{
+  "sections": {
+    "main-collection-banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        ".collection-hero__description {font-size: 2em; max-width: 100%;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "main-collection-product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 20,
+        "columns_desktop": 3,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>EMAIL SIGNUP</p>"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sign up for our email list",
+            "heading_size": "h0"
+          }
+        },
+        "email_form": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "paragraph",
+        "heading",
+        "email_form"
+      ],
+      "custom_css": [
+        "h2 {color: #f5eedd;}"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main-collection-banner",
+    "main-collection-product-grid",
+    "newsletter"
+  ]
+}

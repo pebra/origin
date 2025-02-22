@@ -1,1 +1,88 @@
-{"name":"t:sections.header.name","type":"header","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"announcement_ieLKnp":{"type":"announcement","settings":{"text":"Free shipping on orders over $200 CAD \/ $150 USD","link":""}},"b5ef66ca-d53d-41a9-a22a-e043a2a5f112":{"type":"announcement","disabled":true,"settings":{"text":"Get 10% OFF to celebrate the launch of the store with the code LAUNCH10","link":""}}},"block_order":["announcement_ieLKnp","b5ef66ca-d53d-41a9-a22a-e043a2a5f112"],"settings":{"color_scheme":"","show_line_separator":true,"show_social":false,"auto_rotate":false,"change_slides_speed":5,"enable_country_selector":false,"enable_language_selector":false}},"header":{"type":"header","custom_css":[".header__inline-menu {margin-top: 0;}",".list-menu__item {font-size: 1.3em;}"],"settings":{"logo_position":"middle-left","menu":"main-menu","menu_type_desktop":"dropdown","sticky_header_type":"none","show_line_separator":false,"color_scheme":"background-1","menu_color_scheme":"","enable_country_selector":false,"enable_language_selector":false,"mobile_logo_position":"center","margin_bottom":0,"padding_top":8,"padding_bottom":16}},"ss_bonbon_hero_7BRjaV":{"type":"ss-bonbon-hero","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/aflion-carrot-cover.png","heading":"Deep & clean clacks","subheading":"Say HI to the Aflion Carrot tactiles","url_text":"SHOP NOW","url":"https:\/\/beaverkeys.ca\/products\/aflion-carrot","svg-bg-color":"#b5de72","text-color":"#0e2524","button-bg":"#1e5f5c","button-text-color":"#ffffff","heading-size":56,"subheading-size":24,"image_padding":10,"background-color":"#f5eedd","padding_top":48,"padding_bottom":100,"section-width":120}}},"order":["announcement-bar","header","ss_bonbon_hero_7BRjaV"]}
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_ieLKnp": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free shipping on orders over $200 CAD / $150 USD",
+            "link": ""
+          }
+        },
+        "b5ef66ca-d53d-41a9-a22a-e043a2a5f112": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "Get 10% OFF to celebrate the launch of the store with the code LAUNCH10",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_ieLKnp",
+        "b5ef66ca-d53d-41a9-a22a-e043a2a5f112"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "custom_css": [
+        ".header__inline-menu {margin-top: 0;}",
+        ".list-menu__item {font-size: 1.3em;}"
+      ],
+      "settings": {
+        "logo_position": "middle-left",
+        "menu": "main-menu",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "none",
+        "show_line_separator": false,
+        "color_scheme": "background-1",
+        "menu_color_scheme": "",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 8,
+        "padding_bottom": 16
+      }
+    },
+    "ss_bonbon_hero_7BRjaV": {
+      "type": "ss-bonbon-hero",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/aflion-carrot-cover.png",
+        "heading": "Deep & clean clacks",
+        "subheading": "Say HI to the Aflion Carrot tactiles",
+        "url_text": "SHOP NOW",
+        "url": "https://beaverkeys.ca/products/aflion-carrot",
+        "svg-bg-color": "#b5de72",
+        "text-color": "#0e2524",
+        "button-bg": "#1e5f5c",
+        "button-text-color": "#ffffff",
+        "heading-size": 56,
+        "subheading-size": 24,
+        "image_padding": 10,
+        "background-color": "#f5eedd",
+        "padding_top": 48,
+        "padding_bottom": 100,
+        "section-width": 120
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header",
+    "ss_bonbon_hero_7BRjaV"
+  ]
+}

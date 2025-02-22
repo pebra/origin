@@ -1,1 +1,707 @@
-{"sections":{"ss_bonbon_hero_MhL3hF":{"type":"ss-bonbon-hero","settings":{"image":"shopify:\/\/shop_images\/fun60cover_b73c43e8-558c-4c3f-ad54-59b83df20fb7.png","heading":"MONSGEEK FUN60","subheading":"Magnetic switches & ultra fast polling","url_text":"SHOP NOW","url":"https:\/\/beaverkeys.ca\/products\/monsgeek-fun60-ultra?utm_source=landing&utm_campaign=landing","svg-bg-color":"#b5de72","text-color":"#0e2524","button-bg":"#1e5f5c","button-text-color":"#ffffff","heading-size":64,"subheading-size":34,"image_padding":28,"background-color":"#f5eedd","padding_top":28,"padding_bottom":40,"section-width":120}},"image_with_text_jH8Eh6":{"type":"image-with-text","blocks":{"heading_hAJFrV":{"type":"heading","settings":{"heading":"Looking for a last minute gift?","heading_size":"h1"}},"text_LkEpQY":{"type":"text","settings":{"text":"","text_style":"body"}},"button_ffdEFq":{"type":"button","settings":{"button_label":"Get a digital Gift Card!","button_link":"shopify:\/\/products\/beaverkeys-gift-card","button_style_secondary":false}}},"block_order":["heading_hAJFrV","text_LkEpQY","button_ffdEFq"],"disabled":true,"settings":{"image":"shopify:\/\/shop_images\/IMG_1060_867186a0-8bde-4c9a-af3a-564383bd8132.png","height":"adapt","desktop_image_width":"small","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"center","content_layout":"no-overlap","section_color_scheme":"","color_scheme":"","image_behavior":"none","mobile_content_alignment":"left","padding_top":24,"padding_bottom":24}},"7b21d783-3b99-4ea1-b25d-ab5558e852f9":{"type":"image-banner","blocks":{"template--18780322398528__7b21d783-3b99-4ea1-b25d-ab5558e852f9-16859101432035300a-0":{"type":"heading","settings":{"heading":"Shop the Valentines's Day Sale until Feb 17","heading_size":"h1"}},"template--18780322398528__7b21d783-3b99-4ea1-b25d-ab5558e852f9-16859101432035300a-1":{"type":"text","disabled":true,"settings":{"text":"Secure great deals on curated bundles","text_style":"subtitle"}},"template--18780322398528__7b21d783-3b99-4ea1-b25d-ab5558e852f9-16859101432035300a-2":{"type":"buttons","settings":{"button_label_1":"Shop the Sale","button_link_1":"shopify:\/\/collections\/valentines-day-sale","button_style_secondary_1":false,"button_label_2":"","button_link_2":"https:\/\/beaverkeys.ca\/pages\/how-to-get-your-free-switch-puller","button_style_secondary_2":false}}},"block_order":["template--18780322398528__7b21d783-3b99-4ea1-b25d-ab5558e852f9-16859101432035300a-0","template--18780322398528__7b21d783-3b99-4ea1-b25d-ab5558e852f9-16859101432035300a-1","template--18780322398528__7b21d783-3b99-4ea1-b25d-ab5558e852f9-16859101432035300a-2"],"disabled":true,"custom_css":[".banner__box {background-color: #fd8382;}"],"settings":{"image":"shopify:\/\/shop_images\/beaverkeys-valentines-sale.jpg","image_overlay_opacity":20,"image_height":"medium","desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"accent-1","image_behavior":"ambient","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":false}},"a04d1e7f-1210-4b33-a568-5e74aa25e534":{"type":"featured-collection","disabled":true,"settings":{"title":"Boxing Day Sale","heading_size":"h0","description":"","show_description":false,"description_style":"body","collection":"black-friday-cyber-monday-bundles","products_to_show":10,"columns_desktop":4,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":true,"color_scheme":"","image_ratio":"adapt","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}},"531fa7e5-3dd6-4b7b-83c2-987916f5eb77":{"type":"featured-collection","settings":{"title":"New Arrivals","heading_size":"h0","description":"","show_description":false,"description_style":"body","collection":"new-arrivals","products_to_show":10,"columns_desktop":5,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"background-1","image_ratio":"adapt","image_shape":"default","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}},"b0b15048-27f3-49c9-9e6d-d0b0202683c4":{"type":"featured-collection","settings":{"title":"Keycaps","heading_size":"h0","description":"","show_description":false,"description_style":"body","collection":"keycaps","products_to_show":5,"columns_desktop":5,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"background-1","image_ratio":"adapt","image_shape":"default","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"fb78c4e1-3484-4bc1-a17f-2b3d00160946":{"type":"featured-collection","settings":{"title":"Keyboards","heading_size":"h0","description":"","show_description":false,"description_style":"body","collection":"keyboard-diy-kits","products_to_show":5,"columns_desktop":5,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"background-1","image_ratio":"adapt","image_shape":"default","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}},"1706805822c1376930":{"type":"apps","blocks":{"judge_me_reviews_featured_carousel_jjxmEU":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{"maxwidth":1080}}},"block_order":["judge_me_reviews_featured_carousel_jjxmEU"],"settings":{"include_margins":true}},"69bf4dad-f8c3-43b4-a616-762a1211b609":{"type":"featured-collection","settings":{"title":"Linear Switches","heading_size":"h0","description":"","show_description":false,"description_style":"body","collection":"linear-switches","products_to_show":5,"columns_desktop":5,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":true,"color_scheme":"background-1","image_ratio":"adapt","image_shape":"default","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}},"17120f9c-81c6-4efd-b641-e689ef01af0f":{"type":"featured-collection","settings":{"title":"Tactile Switches","heading_size":"h0","description":"","show_description":false,"description_style":"body","collection":"tactile-switches","products_to_show":5,"columns_desktop":5,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":true,"color_scheme":"background-1","image_ratio":"adapt","image_shape":"default","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}},"000a3782-bc45-4c74-a8c8-69a76476e8cb":{"type":"featured-collection","settings":{"title":"Accessories","heading_size":"h0","description":"","show_description":false,"description_style":"body","collection":"mechanical-keyboard-accessories","products_to_show":5,"columns_desktop":5,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":true,"color_scheme":"background-1","image_ratio":"adapt","image_shape":"default","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}},"77b4a5ef-81ff-490c-9b06-6150c149cfa9":{"type":"featured-collection","settings":{"title":"Services","heading_size":"h1","description":"","show_description":false,"description_style":"body","collection":"services","products_to_show":2,"columns_desktop":2,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":true,"color_scheme":"background-1","image_ratio":"adapt","image_shape":"default","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}},"31cf1194-adeb-4263-aeff-0795b34b6c63":{"type":"featured-product","blocks":{"template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-0":{"type":"text","settings":{"text":"{{ section.settings.product.vendor }}","text_style":"uppercase"}},"template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-1":{"type":"title","settings":{"heading_size":"h2"}},"template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-2":{"type":"price","settings":{}},"template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-3":{"type":"variant_picker","settings":{"picker_type":"button"}},"template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-4":{"type":"quantity_selector","settings":{}},"template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-5":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true,"show_gift_card_recipient":true}},"template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-6":{"type":"share","settings":{"share_label":"Share"}}},"block_order":["template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-0","template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-1","template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-2","template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-3","template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-4","template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-5","template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-6"],"settings":{"product":"switch-lubing-ultimate-starter-kit","color_scheme":"background-1","secondary_background":false,"media_size":"small","constrain_to_viewport":true,"media_fit":"contain","media_position":"left","image_zoom":"lightbox","hide_variants":false,"enable_video_looping":false,"padding_top":32,"padding_bottom":32}},"rich-text-1":{"type":"rich-text","blocks":{"text":{"type":"text","settings":{"text":"<p>Shipping from Ottawa<\/p>"}},"heading":{"type":"heading","settings":{"heading":"BeaverKeys is a Canadian mechanical keyboard store","heading_size":"h0"}}},"block_order":["text","heading"],"custom_css":[],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"inverse","full_width":true,"padding_top":52,"padding_bottom":44}},"rich-text-3":{"type":"rich-text","blocks":{"text":{"type":"text","disabled":true,"settings":{"text":"<p>RICH TEXT<\/p>"}},"heading":{"type":"heading","settings":{"heading":"Our goal is to keep the mechanical keyboard hobby affordable for everyone","heading_size":"h0"}}},"block_order":["text","heading"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":60,"padding_bottom":36}},"multicolumn-1":{"type":"multicolumn","blocks":{"column":{"type":"column","settings":{"title":"Shipping from Ottawa, Canada","text":"<p>Our products ship from Ottawa (ON) - that means fast shipping and no need to worry about customs or import fees!<\/p>","link_label":"","link":""}},"column-1":{"type":"column","settings":{"title":"Carefully selected products","text":"<p>Being a mechanical keyboard enthusiast myself, I mainly sell products that I used and tested myself. Currently I'm using Akko Piano Pros in a Mode Envoy as my daily driver.<\/p>","link_label":"","link":""}},"column-2":{"type":"column","settings":{"title":"","text":"","link_label":"","link":""}}},"block_order":["column","column-1","column-2"],"settings":{"title":"","heading_size":"h0","image_width":"full","image_ratio":"adapt","columns_desktop":2,"column_alignment":"left","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":0,"padding_bottom":0}},"df98fa9a-19e9-4377-a248-904e42458f50":{"type":"image-with-text","blocks":{"template--18045284352320__df98fa9a-19e9-4377-a248-904e42458f50-16786676148724b481-0":{"type":"heading","disabled":true,"settings":{"heading":"Image with text","heading_size":"h1"}},"template--18045284352320__df98fa9a-19e9-4377-a248-904e42458f50-16786676148724b481-1":{"type":"text","settings":{"text":"<p>The BeaverKeys logo has been designed by the incredibly talented <a href=\"https:\/\/vancraftsstudio.com\" target=\"_blank\" title=\"https:\/\/vancraftsstudio.com\">vancraftsstudio.com<\/a>! Go and check her out if you're looking for stickers, desk mats and other beautiful items.<\/p>","text_style":"body"}},"template--18045284352320__df98fa9a-19e9-4377-a248-904e42458f50-16786676148724b481-2":{"type":"button","settings":{"button_label":"Visit Website","button_link":"https:\/\/vancraftsstudio.com","button_style_secondary":false}}},"block_order":["template--18045284352320__df98fa9a-19e9-4377-a248-904e42458f50-16786676148724b481-0","template--18045284352320__df98fa9a-19e9-4377-a248-904e42458f50-16786676148724b481-1","template--18045284352320__df98fa9a-19e9-4377-a248-904e42458f50-16786676148724b481-2"],"settings":{"image":"shopify:\/\/shop_images\/IMG_0323.webp","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","section_color_scheme":"","color_scheme":"background-1","image_behavior":"none","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"multicolumn-2":{"type":"multicolumn","blocks":{"column":{"type":"column","settings":{"title":"Brand value heading","text":"<p>Describe something unique about your brand value. Consider highlighting how your products are made, your sustainability efforts, or your creative process.<\/p>","link_label":"","link":""}},"column-1":{"type":"column","settings":{"title":"","text":"<p>Consider adding an image for visual interest. <\/p>","link_label":"","link":""}},"column-2":{"type":"column","settings":{"title":"","text":"<p>Consider adding an image for visual interest. <\/p>","link_label":"","link":""}}},"block_order":["column","column-1","column-2"],"disabled":true,"settings":{"title":"","heading_size":"h0","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":0,"padding_bottom":36}},"newsletter":{"type":"newsletter","blocks":{"paragraph":{"type":"paragraph","settings":{"text":"<p>EMAIL SIGNUP<\/p>"}},"heading":{"type":"heading","settings":{"heading":"Sign up for our email list","heading_size":"h0"}},"email_form":{"type":"email_form","settings":{}}},"block_order":["paragraph","heading","email_form"],"settings":{"color_scheme":"background-1","full_width":true,"padding_top":24,"padding_bottom":40}}},"order":["ss_bonbon_hero_MhL3hF","image_with_text_jH8Eh6","7b21d783-3b99-4ea1-b25d-ab5558e852f9","a04d1e7f-1210-4b33-a568-5e74aa25e534","531fa7e5-3dd6-4b7b-83c2-987916f5eb77","b0b15048-27f3-49c9-9e6d-d0b0202683c4","fb78c4e1-3484-4bc1-a17f-2b3d00160946","1706805822c1376930","69bf4dad-f8c3-43b4-a616-762a1211b609","17120f9c-81c6-4efd-b641-e689ef01af0f","000a3782-bc45-4c74-a8c8-69a76476e8cb","77b4a5ef-81ff-490c-9b06-6150c149cfa9","31cf1194-adeb-4263-aeff-0795b34b6c63","rich-text-1","rich-text-3","multicolumn-1","df98fa9a-19e9-4377-a248-904e42458f50","multicolumn-2","newsletter"]}
+{
+  "sections": {
+    "ss_bonbon_hero_MhL3hF": {
+      "type": "ss-bonbon-hero",
+      "settings": {
+        "image": "shopify://shop_images/fun60cover_b73c43e8-558c-4c3f-ad54-59b83df20fb7.png",
+        "heading": "MONSGEEK FUN60",
+        "subheading": "Magnetic switches & ultra fast polling",
+        "url_text": "SHOP NOW",
+        "url": "https://beaverkeys.ca/products/monsgeek-fun60-ultra?utm_source=landing&utm_campaign=landing",
+        "svg-bg-color": "#b5de72",
+        "text-color": "#0e2524",
+        "button-bg": "#1e5f5c",
+        "button-text-color": "#ffffff",
+        "heading-size": 64,
+        "subheading-size": 34,
+        "image_padding": 28,
+        "background-color": "#f5eedd",
+        "padding_top": 28,
+        "padding_bottom": 40,
+        "section-width": 120
+      }
+    },
+    "image_with_text_jH8Eh6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_hAJFrV": {
+          "type": "heading",
+          "settings": {
+            "heading": "Looking for a last minute gift?",
+            "heading_size": "h1"
+          }
+        },
+        "text_LkEpQY": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "button_ffdEFq": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get a digital Gift Card!",
+            "button_link": "shopify://products/beaverkeys-gift-card",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_hAJFrV",
+        "text_LkEpQY",
+        "button_ffdEFq"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/IMG_1060_867186a0-8bde-4c9a-af3a-564383bd8132.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "7b21d783-3b99-4ea1-b25d-ab5558e852f9": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18780322398528__7b21d783-3b99-4ea1-b25d-ab5558e852f9-16859101432035300a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shop the Valentines's Day Sale until Feb 17",
+            "heading_size": "h1"
+          }
+        },
+        "template--18780322398528__7b21d783-3b99-4ea1-b25d-ab5558e852f9-16859101432035300a-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Secure great deals on curated bundles",
+            "text_style": "subtitle"
+          }
+        },
+        "template--18780322398528__7b21d783-3b99-4ea1-b25d-ab5558e852f9-16859101432035300a-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop the Sale",
+            "button_link_1": "shopify://collections/valentines-day-sale",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "https://beaverkeys.ca/pages/how-to-get-your-free-switch-puller",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18780322398528__7b21d783-3b99-4ea1-b25d-ab5558e852f9-16859101432035300a-0",
+        "template--18780322398528__7b21d783-3b99-4ea1-b25d-ab5558e852f9-16859101432035300a-1",
+        "template--18780322398528__7b21d783-3b99-4ea1-b25d-ab5558e852f9-16859101432035300a-2"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".banner__box {background-color: #fd8382;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/beaverkeys-valentines-sale.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-1",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "a04d1e7f-1210-4b33-a568-5e74aa25e534": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Boxing Day Sale",
+        "heading_size": "h0",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "black-friday-cyber-monday-bundles",
+        "products_to_show": 10,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "531fa7e5-3dd6-4b7b-83c2-987916f5eb77": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "New Arrivals",
+        "heading_size": "h0",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "new-arrivals",
+        "products_to_show": 10,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b0b15048-27f3-49c9-9e6d-d0b0202683c4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Keycaps",
+        "heading_size": "h0",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "keycaps",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "fb78c4e1-3484-4bc1-a17f-2b3d00160946": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Keyboards",
+        "heading_size": "h0",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "keyboard-diy-kits",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1706805822c1376930": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_jjxmEU": {
+          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_jjxmEU"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "69bf4dad-f8c3-43b4-a616-762a1211b609": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Linear Switches",
+        "heading_size": "h0",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "linear-switches",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "17120f9c-81c6-4efd-b641-e689ef01af0f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Tactile Switches",
+        "heading_size": "h0",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "tactile-switches",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "000a3782-bc45-4c74-a8c8-69a76476e8cb": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Accessories",
+        "heading_size": "h0",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "mechanical-keyboard-accessories",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "77b4a5ef-81ff-490c-9b06-6150c149cfa9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Services",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "services",
+        "products_to_show": 2,
+        "columns_desktop": 2,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "31cf1194-adeb-4263-aeff-0795b34b6c63": {
+      "type": "featured-product",
+      "blocks": {
+        "template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h2"
+          }
+        },
+        "template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-2": {
+          "type": "price",
+          "settings": {}
+        },
+        "template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-4": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-0",
+        "template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-1",
+        "template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-2",
+        "template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-3",
+        "template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-4",
+        "template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-5",
+        "template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-6"
+      ],
+      "settings": {
+        "product": "switch-lubing-ultimate-starter-kit",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Shipping from Ottawa</p>"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "BeaverKeys is a Canadian mechanical keyboard store",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "text",
+        "heading"
+      ],
+      "custom_css": [],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 52,
+        "padding_bottom": 44
+      }
+    },
+    "rich-text-3": {
+      "type": "rich-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>RICH TEXT</p>"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our goal is to keep the mechanical keyboard hobby affordable for everyone",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "text",
+        "heading"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn-1": {
+      "type": "multicolumn",
+      "blocks": {
+        "column": {
+          "type": "column",
+          "settings": {
+            "title": "Shipping from Ottawa, Canada",
+            "text": "<p>Our products ship from Ottawa (ON) - that means fast shipping and no need to worry about customs or import fees!</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Carefully selected products",
+            "text": "<p>Being a mechanical keyboard enthusiast myself, I mainly sell products that I used and tested myself. Currently I'm using Akko Piano Pros in a Mode Envoy as my daily driver.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column",
+        "column-1",
+        "column-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "df98fa9a-19e9-4377-a248-904e42458f50": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18045284352320__df98fa9a-19e9-4377-a248-904e42458f50-16786676148724b481-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--18045284352320__df98fa9a-19e9-4377-a248-904e42458f50-16786676148724b481-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The BeaverKeys logo has been designed by the incredibly talented <a href=\"https://vancraftsstudio.com\" target=\"_blank\" title=\"https://vancraftsstudio.com\">vancraftsstudio.com</a>! Go and check her out if you're looking for stickers, desk mats and other beautiful items.</p>",
+            "text_style": "body"
+          }
+        },
+        "template--18045284352320__df98fa9a-19e9-4377-a248-904e42458f50-16786676148724b481-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Visit Website",
+            "button_link": "https://vancraftsstudio.com",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18045284352320__df98fa9a-19e9-4377-a248-904e42458f50-16786676148724b481-0",
+        "template--18045284352320__df98fa9a-19e9-4377-a248-904e42458f50-16786676148724b481-1",
+        "template--18045284352320__df98fa9a-19e9-4377-a248-904e42458f50-16786676148724b481-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_0323.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn-2": {
+      "type": "multicolumn",
+      "blocks": {
+        "column": {
+          "type": "column",
+          "settings": {
+            "title": "Brand value heading",
+            "text": "<p>Describe something unique about your brand value. Consider highlighting how your products are made, your sustainability efforts, or your creative process.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Consider adding an image for visual interest. </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Consider adding an image for visual interest. </p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column",
+        "column-1",
+        "column-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>EMAIL SIGNUP</p>"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sign up for our email list",
+            "heading_size": "h0"
+          }
+        },
+        "email_form": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "paragraph",
+        "heading",
+        "email_form"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "ss_bonbon_hero_MhL3hF",
+    "image_with_text_jH8Eh6",
+    "7b21d783-3b99-4ea1-b25d-ab5558e852f9",
+    "a04d1e7f-1210-4b33-a568-5e74aa25e534",
+    "531fa7e5-3dd6-4b7b-83c2-987916f5eb77",
+    "b0b15048-27f3-49c9-9e6d-d0b0202683c4",
+    "fb78c4e1-3484-4bc1-a17f-2b3d00160946",
+    "1706805822c1376930",
+    "69bf4dad-f8c3-43b4-a616-762a1211b609",
+    "17120f9c-81c6-4efd-b641-e689ef01af0f",
+    "000a3782-bc45-4c74-a8c8-69a76476e8cb",
+    "77b4a5ef-81ff-490c-9b06-6150c149cfa9",
+    "31cf1194-adeb-4263-aeff-0795b34b6c63",
+    "rich-text-1",
+    "rich-text-3",
+    "multicolumn-1",
+    "df98fa9a-19e9-4377-a248-904e42458f50",
+    "multicolumn-2",
+    "newsletter"
+  ]
+}
