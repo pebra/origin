@@ -1,0 +1,70 @@
+{% schema %}
+{
+  "name": "BK Collection",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title",
+      "default": "Best Seller"
+    },
+    {
+      "type": "collection",
+      "id": "featured_collection",
+      "label": "Collection"
+    },
+    {
+      "type": "range",
+      "id": "products_to_show",
+      "min": 2,
+      "max": 12,
+      "step": 1,
+      "default": 4,
+      "label": "Number of products to show"
+    }
+  ],
+  "presets": [
+    {
+      "name": "BK Collection",
+      "category": "Collection"
+    }
+  ]
+}
+{% endschema %}
+
+<div class="page-width">
+  <div class="section-header text-center">
+    <h2>{{ section.settings.title | escape }}</h2>
+    <a href="{{ collections[section.settings.featured_collection].url }}" class="view-all">View all</a>
+  </div>
+
+  {%- assign collection = collections[section.settings.featured_collection] -%}
+
+  <ul class="grid product-grid grid--4-col-desktop grid--2-col-tablet-down" role="list">
+    {%- for product in collection.products limit: section.settings.products_to_show -%}
+      <li class="grid__item">
+        {% render 'product-card',
+          product: product,
+          show_vendor: section.settings.show_vendor,
+          media_aspect_ratio: section.settings.image_ratio,
+          show_secondary_image: section.settings.show_secondary_image
+        %}
+      </li>
+    {%- endfor -%}
+  </ul>
+</div>
+
+<style>
+  .view-all {
+    float: right;
+    text-decoration: none;
+    color: #5c5c5c;
+  }
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    list-style-type: none;
+    padding: 0;
+  }
+</style>
