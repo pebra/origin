@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+for f in $(find . -name "*.json"); do
+  cat $f | jq | tee $f
+done
