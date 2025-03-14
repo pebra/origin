@@ -103,7 +103,7 @@
             "button_label_1": "Shop the Sale",
             "button_link_1": "shopify://collections/sale",
             "button_style_secondary_1": false,
-            "button_label_2": "",
+            "button_label_2": "Get a free keycap set",
             "button_link_2": "https://beaverkeys.ca/pages/how-to-get-your-free-switch-puller",
             "button_style_secondary_2": false
           }
@@ -121,8 +121,8 @@
       "settings": {
         "image": "shopify://shop_images/ANNIVERSSARY_SALE_2.png",
         "image_overlay_opacity": 20,
-        "image_height": "large",
-        "desktop_content_position": "middle-center",
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "accent-1",
