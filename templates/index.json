@@ -1,7 +1,17 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "ss_bonbon_hero_MhL3hF": {
       "type": "ss-bonbon-hero",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/fun60cover_b73c43e8-558c-4c3f-ad54-59b83df20fb7.png",
         "heading": "MONSGEEK FUN60",
@@ -75,8 +85,8 @@
         "template--18780322398528__7b21d783-3b99-4ea1-b25d-ab5558e852f9-16859101432035300a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Shop the Valentines's Day Sale until Feb 17",
-            "heading_size": "h1"
+            "heading": "<strong>BEAVERKEYS IS TURNING 2!</strong>",
+            "heading_size": "h0"
           }
         },
         "template--18780322398528__7b21d783-3b99-4ea1-b25d-ab5558e852f9-16859101432035300a-1": {
@@ -91,7 +101,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop the Sale",
-            "button_link_1": "shopify://collections/valentines-day-sale",
+            "button_link_1": "shopify://collections/sale",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "https://beaverkeys.ca/pages/how-to-get-your-free-switch-puller",
@@ -104,14 +114,14 @@
         "template--18780322398528__7b21d783-3b99-4ea1-b25d-ab5558e852f9-16859101432035300a-1",
         "template--18780322398528__7b21d783-3b99-4ea1-b25d-ab5558e852f9-16859101432035300a-2"
       ],
-      "disabled": true,
       "custom_css": [
-        ".banner__box {background-color: #fd8382;}"
+        ".banner__box {background-color: rgba(0, 0, 0, 0.6); padding: 1em;}",
+        ".banner__box .button {padding: 2em; font-size: 1.25em; font-weight: 800;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/beaverkeys-valentines-sale.jpg",
+        "image": "shopify://shop_images/ANNIVERSSARY_SALE_2.png",
         "image_overlay_opacity": 20,
-        "image_height": "medium",
+        "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -144,7 +154,7 @@
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
@@ -172,7 +182,7 @@
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
@@ -200,7 +210,7 @@
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -228,7 +238,7 @@
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
@@ -273,7 +283,7 @@
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
@@ -301,7 +311,7 @@
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
@@ -329,7 +339,7 @@
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
@@ -357,7 +367,7 @@
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
@@ -387,7 +397,8 @@
         "template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-3": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button"
+            "picker_type": "button",
+            "swatch_shape": "circle"
           }
         },
         "template--18045284352320__31cf1194-adeb-4263-aeff-0795b34b6c63-16766832893b3665d2-4": {
