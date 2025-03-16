@@ -23,9 +23,20 @@
     {{ 'Disallow: /blogs/*/tagged/*' }}
 
     ## Block common tracking parameters (UTM parameters) to avoid duplicate content:
-    {{ 'Disallow: /*?*utm_source=' }}
-    {{ 'Disallow: /*?*utm_medium=' }}
-    {{ 'Disallow: /*?*utm_campaign=' }}
+    {{ 'Disallow: /*?*utm_source*' }}
+    {{ 'Disallow: /*?*utm_medium*' }}
+    {{ 'Disallow: /*?*utm_campaign*' }}
+    {{ 'Disallow: /*?*utm_term*' }}
+    {{ 'Disallow: /*?*utm_content*' }}
+    {{ 'Disallow: /*?*gclid*' }}
+    {{ 'Disallow: /*?*fbclid*' }}
+    {{ 'Disallow: /*?*_ga*' }}
+    {{ 'Disallow: /*?*mc_*' }}
+    {{ 'Disallow: /*utm_source*' }}
+    {{ 'Disallow: /*utm_medium*' }}
+    {{ 'Disallow: /*utm_campaign*' }}
+    {{ 'Disallow: /*gclid*' }}
+    {{ 'Disallow: /*fbclid*' }}
   {%- endif -%}
 
   {%- if group.sitemap != blank -%}
@@ -33,10 +44,6 @@
   {%- endif -%}
 {% endfor %}
 
-User-agent: Googlebot
-Disallow:
-Sitemap: https://beaverkeys.ca/sitemap.xml
+User-agent: Googlebot Disallow: Sitemap: https://beaverkeys.ca/sitemap.xml
 
-User-agent: Googlebot-image
-Disallow:
-Sitemap: https://beaverkeys.ca/sitemap.xml
+User-agent: Googlebot-image Disallow: Sitemap: https://beaverkeys.ca/sitemap.xml
