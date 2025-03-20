@@ -11,7 +11,6 @@
   "sections": {
     "ss_bonbon_hero_MhL3hF": {
       "type": "ss-bonbon-hero",
-      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/fun60cover_b73c43e8-558c-4c3f-ad54-59b83df20fb7.png",
         "heading": "MONSGEEK FUN60",
@@ -114,6 +113,7 @@
         "template--18780322398528__7b21d783-3b99-4ea1-b25d-ab5558e852f9-16859101432035300a-1",
         "template--18780322398528__7b21d783-3b99-4ea1-b25d-ab5558e852f9-16859101432035300a-2"
       ],
+      "disabled": true,
       "custom_css": [
         ".banner__box {background-color: rgba(0, 0, 0, 0.6); padding: 1em;}",
         ".banner__box .button {padding: 2em; font-size: 1.25em; font-weight: 800;}"
