@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_ktKQie": {
+          "type": "announcement",
+          "settings": {
+            "text": "We are not using Canada Post at the moment to avoid disruptions caused by a potential strike",
+            "link": ""
+          }
+        },
         "announcement_ieLKnp": {
           "type": "announcement",
           "settings": {
@@ -30,6 +37,7 @@
         }
       },
       "block_order": [
+        "announcement_ktKQie",
         "announcement_ieLKnp",
         "b5ef66ca-d53d-41a9-a22a-e043a2a5f112"
       ],
