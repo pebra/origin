@@ -132,6 +132,51 @@
         "show_text_below": false
       }
     },
+    "rich_text_r3JVxw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rrNEMM": {
+          "type": "heading",
+          "settings": {
+            "heading": "We are not using Canada Post at the moment to avoid disruptions caused by a potential strike",
+            "heading_size": "h1"
+          }
+        },
+        "text_kzhijH": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>missing translation: \"t:sections.rich-text.blocks.text.settings.text.default\"</p>"
+          }
+        },
+        "button_9wrMEq": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "missing translation: \"t:sections.rich-text.blocks.buttons.settings.button_label_1.default\"",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_rrNEMM",
+        "text_kzhijH",
+        "button_9wrMEq"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "a04d1e7f-1210-4b33-a568-5e74aa25e534": {
       "type": "featured-collection",
       "disabled": true,
@@ -698,6 +743,7 @@
     "ss_bonbon_hero_MhL3hF",
     "image_with_text_jH8Eh6",
     "7b21d783-3b99-4ea1-b25d-ab5558e852f9",
+    "rich_text_r3JVxw",
     "a04d1e7f-1210-4b33-a568-5e74aa25e534",
     "531fa7e5-3dd6-4b7b-83c2-987916f5eb77",
     "b0b15048-27f3-49c9-9e6d-d0b0202683c4",
