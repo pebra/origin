@@ -138,7 +138,7 @@
         "heading_rrNEMM": {
           "type": "heading",
           "settings": {
-            "heading": "Untracked Lettermail Shipping is re-enabled, please make sure to read this update before you use it!",
+            "heading": "Untracked Lettermail Shipping is re-enabled, please make sure to <a href=\"https://beaverkeys.ca/pages/canada-post-shipping-information-temporary-shipping-policy-addendum\" title=\"https://beaverkeys.ca/pages/canada-post-shipping-information-temporary-shipping-policy-addendum\">read this update </a>before you use it!",
             "heading_size": "h1"
           }
         },
