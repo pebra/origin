@@ -12,11 +12,11 @@
     "ss_bonbon_hero_MhL3hF": {
       "type": "ss-bonbon-hero",
       "settings": {
-        "image": "shopify://shop_images/cilantro-cover.png",
-        "heading": "AKKO CILANTRO IS HERE",
-        "subheading": "HMX'S FIRST TACTILE SWITCH",
-        "url_text": "SHOP NOW",
-        "url": "https://beaverkeys.ca/products/akko-cilantro?utm_source=landingpage",
+        "image": "shopify://shop_images/briny-cover.png",
+        "heading": "KEYGEEK BRINY",
+        "subheading": "CLEARANCE SALE",
+        "url_text": "SAVE 20%",
+        "url": "https://beaverkeys.ca/products/keygeek-briny",
         "svg-bg-color": "#b5de72",
         "text-color": "#0e2524",
         "button-bg": "#1e5f5c",
