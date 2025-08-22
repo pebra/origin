@@ -392,6 +392,35 @@
         "padding_bottom": 36
       }
     },
+    "1755825649cb1e7660": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_LF3b3j": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "BeaverKeys on Instagram",
+            "title_color": "",
+            "title_size_v2": 24,
+            "alignment": "left",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": true,
+            "link_alignment": "center",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_LF3b3j"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "77b4a5ef-81ff-490c-9b06-6150c149cfa9": {
       "type": "featured-collection",
       "settings": {
@@ -771,6 +800,7 @@
     "69bf4dad-f8c3-43b4-a616-762a1211b609",
     "17120f9c-81c6-4efd-b641-e689ef01af0f",
     "000a3782-bc45-4c74-a8c8-69a76476e8cb",
+    "1755825649cb1e7660",
     "77b4a5ef-81ff-490c-9b06-6150c149cfa9",
     "31cf1194-adeb-4263-aeff-0795b34b6c63",
     "rich-text-1",
