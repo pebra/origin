@@ -12,11 +12,11 @@
     "ss_bonbon_hero_MhL3hF": {
       "type": "ss-bonbon-hero",
       "settings": {
-        "image": "shopify://shop_images/briny-cover.png",
-        "heading": "KEYGEEK BRINY",
-        "subheading": "CLEARANCE SALE",
-        "url_text": "SAVE 20%",
-        "url": "https://beaverkeys.ca/products/keygeek-briny",
+        "image": "shopify://shop_images/m2.png",
+        "heading": "Monsgeek M2 V5",
+        "subheading": "Aluminum barebone with a numpad",
+        "url_text": "SHOP NOW",
+        "url": "https://beaverkeys.ca/products/monsgeek-m2-v5",
         "svg-bg-color": "#b5de72",
         "text-color": "#0e2524",
         "button-bg": "#1e5f5c",
