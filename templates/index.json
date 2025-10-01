@@ -57,20 +57,22 @@
       "blocks": {
         "heading_hAJFrV": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "heading": "Looking for a last minute gift?",
+            "heading": "Hey everybody 👋We are going on a short vacation and will not be fulfilling orders from Oct 4 to Oct 11.All order placed during that time period will enjoy an automatic 10% off as an appreciation of your patience and support ❤️",
             "heading_size": "h1"
           }
         },
         "text_LkEpQY": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "<p>Hey everybody 👋</p><p>We are going on a short vacation and will not be fulfilling orders from Oct 4 to Oct 11.</p><p>All orders placed during that time period will enjoy an automatic 10% off as an appreciation of your patience and support ❤️</p>",
             "text_style": "body"
           }
         },
         "button_ffdEFq": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Get a digital Gift Card!",
             "button_link": "shopify://products/beaverkeys-gift-card",
@@ -85,7 +87,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/IMG_1060_867186a0-8bde-4c9a-af3a-564383bd8132.png",
+        "image": "shopify://shop_images/vacay.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
