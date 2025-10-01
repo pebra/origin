@@ -16,9 +16,8 @@
       "blocks": {
         "announcement_ktKQie": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "We are going to be on vacation from Oct 4 - Oct 11. Fulfillment will be paused.",
+            "text": "We are going to be on vacation from Oct 4 - Oct 11. Fulfillment will be paused during that time period.",
             "link": "https://beaverkeys.ca/blogs/news/store-in-vacation-mode-from-oct-4-11"
           }
         },

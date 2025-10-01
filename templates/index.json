@@ -11,6 +11,7 @@
   "sections": {
     "ss_bonbon_hero_MhL3hF": {
       "type": "ss-bonbon-hero",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/m2.png",
         "heading": "Monsgeek M2 V5",
@@ -22,28 +23,6 @@
         "button-bg": "#1e5f5c",
         "button-text-color": "#ffffff",
         "heading-size": 64,
-        "subheading-size": 34,
-        "image_padding": 28,
-        "background-color": "#f5eedd",
-        "padding_top": 28,
-        "padding_bottom": 40,
-        "section-width": 120
-      }
-    },
-    "ss_bonbon_hero_xLJEYz": {
-      "type": "ss-bonbon-hero",
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/vacay.png",
-        "heading": "We are going on vacation soon",
-        "subheading": "Fulfillment will be paused between Oct 4 - Oct 11",
-        "url_text": "Read more",
-        "url": "https://beaverkeys.ca/products/monsgeek-m2-v5",
-        "svg-bg-color": "#b5de72",
-        "text-color": "#0e2524",
-        "button-bg": "#1e5f5c",
-        "button-text-color": "#ffffff",
-        "heading-size": 54,
         "subheading-size": 34,
         "image_padding": 28,
         "background-color": "#f5eedd",
@@ -66,7 +45,7 @@
         "text_LkEpQY": {
           "type": "text",
           "settings": {
-            "text": "<p>Hey everybody 👋</p><p>We are going on a short vacation and will not be fulfilling orders from Oct 4 to Oct 11.</p><p>All orders placed during that time period will enjoy an automatic 10% off as an appreciation of your patience and support ❤️</p>",
+            "text": "<p>Hey everybody 👋</p><p>We are going on a short vacation and will not be fulfilling orders from Oct 4 to Oct 11.</p><p>All orders placed during that time period will enjoy an automatic 10% off as an appreciation of your patience and support ❤️</p><p>Current fulfillment will continue until Oct 3 in the morning!</p>",
             "text_style": "body"
           }
         },
@@ -85,7 +64,6 @@
         "text_LkEpQY",
         "button_ffdEFq"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/vacay.png",
         "height": "adapt",
@@ -100,6 +78,28 @@
         "mobile_content_alignment": "left",
         "padding_top": 24,
         "padding_bottom": 24
+      }
+    },
+    "ss_bonbon_hero_xLJEYz": {
+      "type": "ss-bonbon-hero",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/vacay.png",
+        "heading": "We are going on vacation soon",
+        "subheading": "Fulfillment will be paused between Oct 4 - Oct 11",
+        "url_text": "Read more",
+        "url": "https://beaverkeys.ca/products/monsgeek-m2-v5",
+        "svg-bg-color": "#b5de72",
+        "text-color": "#0e2524",
+        "button-bg": "#1e5f5c",
+        "button-text-color": "#ffffff",
+        "heading-size": 54,
+        "subheading-size": 34,
+        "image_padding": 28,
+        "background-color": "#f5eedd",
+        "padding_top": 28,
+        "padding_bottom": 40,
+        "section-width": 120
       }
     },
     "7b21d783-3b99-4ea1-b25d-ab5558e852f9": {
@@ -813,8 +813,8 @@
   },
   "order": [
     "ss_bonbon_hero_MhL3hF",
-    "ss_bonbon_hero_xLJEYz",
     "image_with_text_jH8Eh6",
+    "ss_bonbon_hero_xLJEYz",
     "7b21d783-3b99-4ea1-b25d-ab5558e852f9",
     "rich_text_r3JVxw",
     "a04d1e7f-1210-4b33-a568-5e74aa25e534",
