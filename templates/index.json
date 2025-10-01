@@ -34,7 +34,7 @@
       "type": "ss-bonbon-hero",
       "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/m2.png",
+        "image": "shopify://shop_images/vacay.png",
         "heading": "We are going on vacation soon",
         "subheading": "Fulfillment will be paused between Oct 6 - Oct 10",
         "url_text": "Read more",
@@ -43,7 +43,7 @@
         "text-color": "#0e2524",
         "button-bg": "#1e5f5c",
         "button-text-color": "#ffffff",
-        "heading-size": 64,
+        "heading-size": 54,
         "subheading-size": 34,
         "image_padding": 28,
         "background-color": "#f5eedd",
