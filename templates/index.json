@@ -45,7 +45,7 @@
         "text_LkEpQY": {
           "type": "text",
           "settings": {
-            "text": "<p>Hey everybody 👋</p><p>We are going on a short vacation and will not be fulfilling orders from Oct 4 to Oct 11.</p><p>All orders placed during that time period will enjoy an automatic 10% off as an appreciation of your patience and support ❤️</p><p>Current fulfillment will continue until Oct 3 in the morning!</p>",
+            "text": "<p>Hey everybody 👋</p><p>We are going on a short vacation and will not be fulfilling orders from Oct 4 to Oct 11.</p><p>All orders placed during that time period will enjoy an <strong>automatic 10% off </strong>as an appreciation of your patience and support ❤️</p><p>Current fulfillment will continue until Oct 3 in the morning!</p>",
             "text_style": "body"
           }
         },
