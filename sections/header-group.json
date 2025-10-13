@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_ktKQie": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "We are going to be on vacation from Oct 4 - Oct 11. Fulfillment will be paused during that time period.",
             "link": "https://beaverkeys.ca/blogs/news/store-in-vacation-mode-from-oct-4-11"
@@ -31,8 +32,8 @@
         "b5ef66ca-d53d-41a9-a22a-e043a2a5f112": {
           "type": "announcement",
           "settings": {
-            "text": "CUPW is on strike again - Canada Post shipping options are suspended - Customers with existing orders will be contacted",
-            "link": "https://www.canadapost-postescanada.ca/cpc/en/our-company/news-and-media/corporate-news/negotiations/2025-09-25-cupw-has-launched-a-national-strike-that-will-cause-postal-delays"
+            "text": "We are back from vacation! Please read our latest update on the Canada Post situation",
+            "link": "https://beaverkeys.ca/blogs/news/store-update-october-2"
           }
         }
       },
