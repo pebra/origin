@@ -161,6 +161,24 @@
           "button_vertical_position": "lowest",
           "greeting_message": ""
         }
+      },
+      "2493559307285634702": {
+        "type": "shopify://apps/disco/blocks/app_embed/7d4e9f1f-7c53-469f-baff-26fef3ed7c4f",
+        "disabled": false,
+        "settings": {
+          "home_featured_collections": [
+            "black-friday-cyber-monday-2025",
+            "keycaps",
+            "linear-switches",
+            "new-arrivals",
+            "tactile-switches",
+            "deskmats",
+            "keyboard-diy-kits",
+            "keyboard-switches"
+          ],
+          "using_collection_filter_app": false,
+          "translation_overrides": ""
+        }
       }
     },
     "color_schemes": {
