@@ -31,6 +31,7 @@
         },
         "b5ef66ca-d53d-41a9-a22a-e043a2a5f112": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "We are back from vacation! Please read our latest update on the Canada Post situation",
             "link": "https://beaverkeys.ca/blogs/news/store-update-october-2"
