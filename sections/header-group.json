@@ -97,11 +97,29 @@
         "padding_bottom": 100,
         "section-width": 120
       }
+    },
+    "custom_liquid_rg8mLL": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<style>\n  /* CONTAINER STYLING\n    Adjust background-color and color to match your brand \n  */\n  .custom-announcement-wrapper {\n    background-color: #1E5F5C; /* Background Color */\n    color: #f5eedd;            /* Text Color */\n    padding: 12px 0;           /* Top/Bottom spacing */\n    width: 100%;\n    position: relative;\n    z-index: 10;\n  }\n\n  /* CONTENT ALIGNMENT \n    Uses Origin's native --page-width variable for perfect alignment \n  */\n  .custom-announcement-content {\n    max-width: var(--page-width, 120rem); /* Fallback to 1200px if var fails */\n    margin: 0 auto;\n    padding: 0 1.5rem; /* Matches Origin's mobile side padding */\n    text-align: center;\n    font-size: 3.4rem; /* Approx 14px */\n    line-height: 1.5;\n  }\n\n  /* LINK STYLING */\n  .custom-announcement-content a {\n    color: inherit;\n    text-decoration: underline;\n    text-underline-offset: 3px;\n    font-weight: bold;\n  }\n  \n  /* OPTIONAL: Remove default margin from Custom Liquid section if present */\n  .shopify-section:has(.custom-announcement-wrapper) {\n      margin: 0 !important;\n  }\n</style>\n\n<div class=\"custom-announcement-wrapper\">\n  <div class=\"custom-announcement-content\">\n    <span>\n      <strong>Please note:</strong> Order Fulfillment will be paused between Dec 15 - 22\n    </span>\n  </div>\n</div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "17653349446d2bc489": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "announcement-bar",
     "header",
-    "ss_bonbon_hero_7BRjaV"
+    "ss_bonbon_hero_7BRjaV",
+    "custom_liquid_rg8mLL",
+    "17653349446d2bc489"
   ]
 }
