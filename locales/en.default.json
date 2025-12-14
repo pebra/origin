@@ -545,7 +545,7 @@
         "choose_shipping_method": "Please note: Order Fulfillment will be paused between Dec 15 - 22, orders will ship again on Dec 23."
       },
       "shipping": {
-        "shipping_method_title": "<strong>Please note: Order Fulfillment will be paused between Dec 15 - 22, orders will ship again on Dec 23.</strong>"
+        "shipping_method_title": "Please note: Order Fulfillment will be paused between Dec 15 - 22, orders will ship again on Dec 23."
       }
     }
   }
