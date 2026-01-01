@@ -12,11 +12,11 @@
     "ss_bonbon_hero_MhL3hF": {
       "type": "ss-bonbon-hero",
       "settings": {
-        "image": "shopify://shop_images/al98-pink-cover.png",
-        "heading": "YUNZII AL98",
-        "subheading": "A fully assembled aluminum 98% keyboard",
+        "image": "shopify://shop_images/al80-beige-cover.png",
+        "heading": "YUNZII AL80",
+        "subheading": "Fully assembled aluminum keyboard with a knob and a screen",
         "url_text": "SHOP NOW",
-        "url": "https://beaverkeys.ca/products/yunzii-al98-mechanical-keyboard?variant=51048219017536",
+        "url": "https://beaverkeys.ca/products/yunzii-al80-fully-assembled",
         "svg-bg-color": "#86cbc8",
         "text-color": "#0e2524",
         "button-bg": "#1e5f5c",
@@ -26,7 +26,7 @@
         "image_padding": 28,
         "background-color": "#f5eedd",
         "padding_top": 28,
-        "padding_bottom": 40,
+        "padding_bottom": 68,
         "section-width": 120
       }
     },
