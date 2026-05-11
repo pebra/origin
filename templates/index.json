@@ -12,11 +12,11 @@
     "ss_bonbon_hero_MhL3hF": {
       "type": "ss-bonbon-hero",
       "settings": {
-        "image": "shopify://shop_images/al80-beige-cover.png",
-        "heading": "YUNZII AL80",
-        "subheading": "Fully assembled aluminum keyboard with a knob and a screen",
+        "image": "shopify://shop_images/wobkey-zen65-cover.png",
+        "heading": "WOBKEY BOARDS ARE HERE.",
+        "subheading": "Zen65 & Crush80",
         "url_text": "SHOP NOW",
-        "url": "https://beaverkeys.ca/products/yunzii-al80-fully-assembled",
+        "url": "https://beaverkeys.ca/collections/keyboard-diy-kits?filter.v.price.gte=&filter.v.price.lte=&filter.p.vendor=WOBKEY",
         "svg-bg-color": "#86cbc8",
         "text-color": "#0e2524",
         "button-bg": "#1e5f5c",
