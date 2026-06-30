@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_kKGQyL": {
+          "type": "announcement",
+          "settings": {
+            "text": "👶 Please allow for up to 3 business days to get your order ready as we are welcoming a new life into this world! 👶",
+            "link": ""
+          }
+        },
         "announcement_ktKQie": {
           "type": "announcement",
           "disabled": true,
@@ -39,6 +46,7 @@
         }
       },
       "block_order": [
+        "announcement_kKGQyL",
         "announcement_ktKQie",
         "announcement_ieLKnp",
         "b5ef66ca-d53d-41a9-a22a-e043a2a5f112"
