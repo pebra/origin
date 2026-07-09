@@ -542,7 +542,7 @@
   "shopify": {
     "checkout": {
       "shipping": {
-        "shipping_method_title": "Shipping method - Please allow for up to 3 business days to get your order ready as we are welcoming a new life into this world"
+        "shipping_method_title": "Shipping method"
       }
     }
   }
