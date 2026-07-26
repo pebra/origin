@@ -327,17 +327,10 @@
             "show_average_rating": true,
             "rating_display": "default"
           }
-        },
-        "judge_me_reviews_featured_carousel_jjxmEU": {
-          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
         }
       },
       "block_order": [
-        "judge_me_reviews_cards_carousel_PBNpiM",
-        "judge_me_reviews_featured_carousel_jjxmEU"
+        "judge_me_reviews_cards_carousel_PBNpiM"
       ],
       "settings": {
         "include_margins": true
