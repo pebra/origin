@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -5,10 +14,26 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_kKGQyL": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "👶 Please allow for up to 3 business days to get your order ready as we are welcoming a new life into this world! 👶",
+            "link": ""
+          }
+        },
+        "announcement_ktKQie": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "We are going to be on vacation from Oct 4 - Oct 11. Fulfillment will be paused during that time period.",
+            "link": "https://beaverkeys.ca/blogs/news/store-in-vacation-mode-from-oct-4-11"
+          }
+        },
         "announcement_ieLKnp": {
           "type": "announcement",
           "settings": {
-            "text": "Free shipping on orders over $200 CAD / $150 USD",
+            "text": "Free domestic shipping on orders over $200 CAD",
             "link": ""
           }
         },
@@ -16,20 +41,22 @@
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "Get 10% OFF to celebrate the launch of the store with the code LAUNCH10",
-            "link": ""
+            "text": "We are back from vacation! Please read our latest update on the Canada Post situation",
+            "link": "https://beaverkeys.ca/blogs/news/store-update-october-2"
           }
         }
       },
       "block_order": [
+        "announcement_kKGQyL",
+        "announcement_ktKQie",
         "announcement_ieLKnp",
         "b5ef66ca-d53d-41a9-a22a-e043a2a5f112"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "accent-1",
         "show_line_separator": true,
         "show_social": false,
-        "auto_rotate": false,
+        "auto_rotate": true,
         "change_slides_speed": 5,
         "enable_country_selector": false,
         "enable_language_selector": false
@@ -51,6 +78,7 @@
         "menu_color_scheme": "",
         "enable_country_selector": false,
         "enable_language_selector": false,
+        "enable_customer_avatar": true,
         "mobile_logo_position": "center",
         "margin_bottom": 0,
         "padding_top": 8,
@@ -78,11 +106,30 @@
         "padding_bottom": 100,
         "section-width": 120
       }
+    },
+    "custom_liquid_rg8mLL": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<style>\n  /* CONTAINER STYLING\n    Adjust background-color and color to match your brand \n  */\n  .custom-announcement-wrapper {\n    background-color: #1E5F5C; /* Background Color */\n    color: #f5eedd;            /* Text Color */\n    padding: 12px 0;           /* Top/Bottom spacing */\n    width: 100%;\n    position: relative;\n  }\n\n  /* CONTENT ALIGNMENT \n    Uses Origin's native --page-width variable for perfect alignment \n  */\n  .custom-announcement-content {\n    max-width: var(--page-width, 120rem); /* Fallback to 1200px if var fails */\n    margin: 0 auto;\n    padding: 0 1.5rem; /* Matches Origin's mobile side padding */\n    text-align: center;\n    font-size: 3.4rem; /* Approx 14px */\n    line-height: 1.5;\n  }\n\n  /* LINK STYLING */\n  .custom-announcement-content a {\n    color: inherit;\n    text-decoration: underline;\n    text-underline-offset: 3px;\n    font-weight: bold;\n  }\n  \n  /* OPTIONAL: Remove default margin from Custom Liquid section if present */\n  .shopify-section:has(.custom-announcement-wrapper) {\n      margin: 0 !important;\n  }\n</style>\n\n<div class=\"custom-announcement-wrapper\">\n  <div class=\"custom-announcement-content\">\n    <span>\n      <strong>Please note:</strong> Order Fulfillment will be paused between Dec 15 - 22.\n    <a href=\"https://beaverkeys.ca/blogs/news/a-brief-fulfillment-pause-before-christmas\">Read more</a></span>\n  </div>\n</div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "17653349446d2bc489": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "announcement-bar",
     "header",
-    "ss_bonbon_hero_7BRjaV"
+    "ss_bonbon_hero_7BRjaV",
+    "custom_liquid_rg8mLL",
+    "17653349446d2bc489"
   ]
 }

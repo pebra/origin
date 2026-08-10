@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ottawa Mechanical Keyboard Meetup 2026</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+    --bg-color: #0f172a;
+    --card-bg: #1e293b;
+    --text-color: #f1f5f9;
+    --text-muted: #94a3b8;
+    --primary: #38bdf8;
+    --primary-hover: #0ea5e9;
+    --accent: #fb7185;
+    --cta-bg: #4f46e5;
+    --cta-hover: #4338ca;
+    --font-main: 'Inter', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--font-main);
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+/* Header */
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgba(15, 23, 42, 0.9);
+    backdrop-filter: blur(8px);
+    z-index: 1000;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+nav {
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-weight: 900;
+    font-size: 1.5rem;
+    letter-spacing: -0.025em;
+    color: var(--primary);
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+    align-items: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: var(--text-color);
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: var(--primary);
+}
+
+.btn-nav {
+    background-color: var(--primary);
+    color: var(--bg-color);
+    padding: 0.5rem 1.25rem;
+    border-radius: 9999px;
+    font-weight: 700;
+}
+
+.btn-nav:hover {
+    background-color: var(--primary-hover);
+    color: var(--bg-color);
+}
+
+/* Hero Section */
+.hero {
+    position: relative;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: url('https://cdn.shopify.com/s/files/1/0727/6390/0224/files/hero-2.jpg?v=1774134647');
+    background-size: cover;
+    background-position: center;
+    margin-top: 0;
+}
+
+.hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, rgba(15, 23, 42, 0.4), rgba(15, 23, 42, 0.95));
+}
+
+.hero-content {
+    position: relative;
+    z-index: 10;
+    text-align: left;
+    max-width: 800px;
+}
+
+.hero h1 {
+    font-size: clamp(2.5rem, 8vw, 4.5rem);
+    font-weight: 900;
+    line-height: 1.1;
+    margin-bottom: 1.5rem;
+    letter-spacing: -0.05em;
+}
+
+.year {
+    color: var(--primary);
+}
+
+.hero-tagline {
+    font-size: 1.25rem;
+    color: var(--text-color);
+    margin-bottom: 2.5rem;
+}
+
+.hero-details {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-bottom: 3rem;
+}
+
+.detail-item {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    font-weight: 600;
+}
+
+.detail-item a {
+    color: var(--text-color);
+    text-decoration: none;
+    border-bottom: 1px solid var(--primary);
+    transition: border 0.3s;
+}
+
+.detail-item a:hover {
+    border-bottom-color: transparent;
+}
+
+.btn-primary {
+    display: inline-block;
+    padding: 1rem 2.5rem;
+    background-color: var(--primary);
+    color: var(--bg-color);
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1.125rem;
+    border-radius: 0.5rem;
+    transition: transform 0.2s, background-color 0.2s;
+}
+
+.btn-primary:hover {
+    background-color: var(--primary-hover);
+    transform: translateY(-2px);
+}
+
+/* Sections General */
+section {
+    padding: 6rem 0;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-weight: 800;
+    margin-bottom: 2rem;
+    text-align: center;
+    letter-spacing: -0.025em;
+}
+
+/* About Section */
+.about-section {
+    background-color: var(--bg-color);
+    text-align: center;
+}
+
+.about-section > .container > p {
+    max-width: 800px;
+    margin: 0 auto 4rem auto;
+    font-size: 1.125rem;
+    color: var(--text-muted);
+}
+
+.event-info-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+}
+
+.info-card {
+    background-color: var(--card-bg);
+    padding: 2.5rem;
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    transition: transform 0.3s;
+}
+
+.info-card:hover {
+    transform: translateY(-5px);
+    border-color: var(--primary);
+}
+
+.info-card h3 {
+    color: var(--primary);
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    font-size: 0.875rem;
+    letter-spacing: 0.1em;
+}
+
+.info-card p {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.map-link {
+    display: inline-block;
+    margin-top: 1rem;
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+/* CTA Banner */
+.cta-banner {
+    background: linear-gradient(135deg, var(--cta-bg), #6366f1);
+    padding: 5rem 0;
+    text-align: center;
+    border-radius: 2rem;
+    margin: 2rem;
+}
+
+.cta-banner h2 {
+    margin-bottom: 1rem;
+}
+
+.cta-banner p {
+    font-size: 1.25rem;
+    margin-bottom: 2.5rem;
+    opacity: 0.9;
+}
+
+.btn-cta {
+    display: inline-block;
+    padding: 1.25rem 3rem;
+    background-color: white;
+    color: var(--cta-bg);
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 1.25rem;
+    border-radius: 0.75rem;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.btn-cta:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+/* Sponsors */
+.sponsors-section {
+    background-color: #243356;
+}
+
+.section-desc {
+    text-align: center;
+    color: var(--text-muted);
+    margin-bottom: 4rem;
+}
+
+.sponsor-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 3rem;
+    align-items: center;
+    justify-items: center;
+}
+
+.sponsor-item {
+    width: 100%;
+    max-width: 160px;
+    filter: grayscale(1) opacity(0.7);
+    transition: filter 0.3s, transform 0.3s;
+}
+
+.sponsor-item:hover {
+    filter: grayscale(0) opacity(1);
+    transform: scale(1.1);
+}
+
+.sponsor-item img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+/* Footer */
+footer {
+    padding: 4rem 0;
+    text-align: center;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+    color: var(--text-muted);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    nav ul {
+        display: none; /* Simplification for this demo */
+    }
+    
+    .hero {
+        text-align: center;
+        height: auto;
+        padding: 120px 0 80px 0;
+    }
+    
+    .hero-details {
+        justify-content: center;
+    }
+    
+    .hero-content {
+        margin: 0 auto;
+    }
+
+    .cta-banner {
+        margin: 1rem;
+        padding: 3rem 1rem;
+    }
+}
+
+    </style>
+</head>
+<body>
+
+    <header>
+        <nav class="container">
+            <div class="logo">OMKM 2026</div>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#sponsors">Sponsors</a></li>
+                <li><a href="#tickets" class="btn-nav">Get Tickets</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="hero-overlay"></div>
+        <div class="container hero-content">
+            <h1>Ottawa Mechanical Keyboard Meetup <span class="year">2026</span></h1>
+            <p class="hero-tagline">Connecting enthusiasts, builders, and artisans in the Shawarma capital.</p>
+            <div class="hero-details">
+                <div class="detail-item">
+                    <span class="icon">📅</span>
+                    <span>May 16, 2026</span>
+                </div>
+                <div class="detail-item">
+                    <span class="icon">🕒</span>
+                    <span>12pm - 5pm</span>
+                </div>
+                <div class="detail-item">
+                    <span class="icon">📍</span>
+                    <a href="https://maps.app.goo.gl/rRB3KgA2w5UW2DmP7" target="_blank">Next Door Ottawa, 955A Gladstone Ave</a>
+                </div>
+            </div>
+            <a href="https://simpli.events/e/ottawa-keyboard-meetup" class="btn-primary">Get Your Tickets</a>
+        </div>
+    </section>
+
+    <section id="about" class="about-section">
+        <div class="container">
+            <h2>Experience the magic</h2>
+            <p>Get ready for the biggest mechanical keyboard event in Ottawa! Whether you're a seasoned enthusiast with a collection of custom boards or just curious about what makes those clicks so satisfying, there's something for everyone.</p>
+            <div class="event-info-grid">
+                <div class="info-card">
+                    <h3>What?</h3>
+                    <p>Ottawa Mechanical Keyboard Meetup 2026</p>
+                </div>
+                <div class="info-card">
+                    <h3>Where?</h3>
+                    <p>Next Door Ottawa<br>955A Gladstone Ave, Ottawa</p>
+                    <a href="https://maps.app.goo.gl/rRB3KgA2w5UW2DmP7" class="map-link" target="_blank">View on Google Maps</a>
+                </div>
+                <div class="info-card">
+                    <h3>When?</h3>
+                    <p>May 16, 2026<br>From 12pm - 5pm</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="sponsors" class="sponsors-section">
+        <div class="container">
+            <h2>Our Sponsors</h2>
+            <p class="section-desc">Special thanks to the amazing vendors making this event possible.</p>
+            <div class="sponsor-grid">
+                <div class="sponsor-item">
+                    <a href="https://mech.land", target="_blank">
+                        <img src="https://cdn.shopify.com/s/files/1/0727/6390/0224/files/mechland.webp?v=1774134650" alt="Mechland">
+                    </a>
+                </div>
+                <div class="sponsor-item">
+                    <a href="https://www.nyxkeys.com", target="_blank">
+                        <img src="https://cdn.shopify.com/s/files/1/0727/6390/0224/files/NyxKeys.png?v=1774134650" alt="NyxKeys">
+                    </a>
+                </div>
+                <div class="sponsor-item">
+                    <a href="https://beaverkeys.ca", target="_blank">
+                        <img src="https://cdn.shopify.com/s/files/1/0727/6390/0224/files/BeaverKeys.png?v=1774134650" alt="BeaverKeys">
+                    </a>
+                </div>
+                <div class="sponsor-item">
+                    <a href="https://unikeyboards.com", target="_blank">
+                        <img src="https://cdn.shopify.com/s/files/1/0727/6390/0224/files/Unikeys.png?v=1774134650" alt="Unikeys">
+                    </a>
+                </div>
+                <div class="sponsor-item">
+                    <a href="https://keybay.tech", target="_blank">
+                        <img src="https://cdn.shopify.com/s/files/1/0727/6390/0224/files/KeyBay.png?v=1774134650" alt="KeyBay">
+                    </a>
+                </div>
+                <div class="sponsor-item">
+                    <a href="https://rndkbd.com", target="_blank">
+                        <img src="https://cdn.shopify.com/s/files/1/0727/6390/0224/files/rndkbd.webp?v=1774134650" alt="RndKbd">
+                    </a>
+                </div>
+                <div class="sponsor-item">
+                    <a href="https://www.etsy.com/shop/yasicrafts?utm_source=ig&utm_medium=social&utm_content=link_in_bio&dd_referrer=https%3A%2F%2Fl.instagram.com%2F", target="_blank">
+                        <img src="https://cdn.shopify.com/s/files/1/0727/6390/0224/files/IMG_0213.png?v=1774134651" alt="Yasicrafts">
+                    </a>
+                </div>
+                <div class="sponsor-item">
+                    <a href="https://www.gmk.net/", target="_blank">
+                        <img src="https://cdn.shopify.com/s/files/1/0727/6390/0224/files/gmk-logo.png?v=1776551663" alt="GMK Logo">
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+
+    <section id="tickets" class="cta-banner">
+        <div class="container">
+            <h2>Ready to Click & Clack?</h2>
+            <p>Tickets are limited. Secure yours now to join the ultimate keyboard experience.</p>
+            <a href="https://simpli.events/e/ottawa-keyboard-meetup" class="btn-cta">Buy Tickets Now</a>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Ottawa Mechanical Keyboard Meetup. All rights reserved.</p>
+        </div>
+    </footer>
+
+</body>
+</html>

@@ -52,10 +52,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "selleasy_lb_upsell_addon_block_hV9e6J": {
-          "type": "shopify://apps/selleasy/blocks/lb-upsell-addon-block/790c1a03-a71f-4bc1-9869-00dad526d3c2",
-          "settings": {}
-        },
         "description": {
           "type": "description",
           "settings": {}
@@ -94,7 +90,6 @@
         "rating",
         "quantity_selector",
         "buy_buttons",
-        "selleasy_lb_upsell_addon_block_hV9e6J",
         "description",
         "517dd8d5-7ef0-4100-ba43-b638a3bffc62",
         "share",

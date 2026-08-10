@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main-collection-banner": {
@@ -18,14 +27,14 @@
         "heading_bn7Y8h": {
           "type": "heading",
           "settings": {
-            "heading": "Valentines's Day Sale",
+            "heading": "Anniversary Sale",
             "heading_size": "h1"
           }
         },
         "text_pVtmQa": {
           "type": "text",
           "settings": {
-            "text": "<h4>Treat a loved one or yourself with some new keyboard gear!</h4>",
+            "text": "<h4>BeaverKeys is turning 2!</h4>",
             "text_style": "body"
           }
         }
@@ -35,7 +44,7 @@
         "text_pVtmQa"
       ],
       "settings": {
-        "image": "shopify://shop_images/DALL_E_2025-01-28_12.18.33_-_A_cute_cartoon-style_beaver_holding_a_heart-shaped_object__set_against_a_soft_Valentine_s_Day_theme.png",
+        "image": "shopify://shop_images/ANNIVERSSARY_SALE_2.png",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -61,7 +70,7 @@
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "quick_add": "none",
         "enable_filtering": true,
         "filter_type": "horizontal",
         "enable_sorting": false,
